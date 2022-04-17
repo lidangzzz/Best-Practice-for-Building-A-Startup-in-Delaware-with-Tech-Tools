@@ -1,4 +1,4 @@
-# 华人硅谷创业白皮书
+# 华人在美国（硅谷）科技创业白皮书
 ### 一份简明的快速注册公司/银行/税务/投资/股份/身份操作教程 
 #### Best Practice for Building a Startup in Delaware with Tech Tools
 
